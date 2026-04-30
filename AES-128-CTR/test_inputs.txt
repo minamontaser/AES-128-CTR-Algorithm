@@ -1,0 +1,14 @@
+Key: 00112233445566778899aabbccddeeff
+Plaintext: 00112233445566778899aabbccddeeff
+
+Key: ffeeddccbbaa99887766554433221100
+Plaintext: 00000000000000000000000000000000
+
+Key: 0f1571c947d9e8590cb7add6af7f6798
+Plaintext: 6bc1bee22e409f96e93d7e117393172a
+
+Key: 000102030405060708090a0b0c0d0e0f
+Plaintext: ffffffffffffffffffffffffffffffffffffffffffffffff
+
+Key: 603deb1015ca71be2b73aef0857d7781
+Plaintext: 00112233445566778899aabbccddeeff
